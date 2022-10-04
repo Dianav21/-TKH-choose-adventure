@@ -1,1 +1,1 @@
-# -TKH-choose-adventure
+# TKH-choose-adventure
